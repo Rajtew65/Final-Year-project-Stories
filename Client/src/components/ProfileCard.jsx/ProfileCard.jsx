@@ -13,8 +13,8 @@ const ProfileCard = () => {
       </div>
 
       <div className="ProfileName">
-        <span>Rajesh Tewari</span>
-        <span>Full Stack Developer</span>
+        <span>User Bond</span>
+        <span>Influencer</span>
       </div>
 
       <div className="followStatus">

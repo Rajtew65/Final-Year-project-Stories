@@ -38,7 +38,7 @@ const InfoCard = () => {
 
       <div className="info">
         <span>
-          <b>Studied at </b>
+          <b>Studies at </b>
         </span>
         <span> Heritage Institute of Technology</span>
       </div>

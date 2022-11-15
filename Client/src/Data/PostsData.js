@@ -6,7 +6,7 @@ import postPic3 from '../img/postpic3.jpg'
 export const PostsData = [
     {
         img: postPic1,
-        name: 'Shovan',
+        name: 'Rajesh',
         desc: "Nice picture ",
         likes: 2300,
         liked: true

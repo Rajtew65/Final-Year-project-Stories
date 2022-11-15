@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../img/twitter.png'
+import Logo from '../../img/logo.jpeg'
 import {UilSearch} from '@iconscout/react-unicons'
 import './LogoSearch.css'
 const LogoSearch = () => {
